@@ -22,3 +22,14 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 # youtube-clone
+
+
+# Why thid was made
+
+## Reason #1
+
+For a fun project to test my sanity, nextjs and tailwindcss skills!
+
+## Reason #2
+
+# YOUTUBE NEEDS A DISLIKE BUTTON
